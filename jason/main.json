@@ -1,0 +1,72 @@
+{
+    "Receta": "Sanas",
+    "Tipo": [
+      {
+        "Ingrediente principal": "Carne vacuna",
+        "Nombre del plato": 29,
+        "Preparación": "Dan Jukes",
+        "Ingredientes": [
+          "Radiation resistance",
+          "Turning tiny",
+          "Radiation blast"
+        ]
+      },
+      {
+        "Ingrediente principal": "Carne de pescado",
+        "Nombre del plato": "Caballa al horno",
+        "Preparación": "Tiempo total 1 hora y 15 minutos.Elaboración 15 minutos. Cocción 1 hora. Precalentamos el horno a 180º C con calor arriba y abajo. Pelamos las patatas y las cortamos en rodajas finas, lavamos y cortamos los pimientos y tomates en rodajas, la cebolla en láminas, y picamos bien los dientes de ajo. Engrasamos una fuente con una cuarta parte del aceite, colocamos las patatas mezcladas con la cebolla, salamos y añadimos el tomate, el pimiento verde y el ajo picado, rectificamos de sal. Añadimos el vino, el zumo del limón y la mitad del agua, y horneamos durante 45 minutos, vigilando que no se queden las hortalizas secas. Colocamos el pescado, limpio, salado y con unas rodajas de limón y añadimos el resto del agua. Horneamos durante 15 minutos.",
+        "Ingredientes para 4 personas": [
+          "4 Caballa",
+          "3 Tomate en rama",
+          "2 Pimiento verde italiano",
+          "4 Papas",
+          "1 Cebolla",
+          "2 Dientes de ajo",
+          "Vino Blanco 130 ml",
+          "2 Limón",
+          "Aceite de oliva virgen extra 50 ml",
+          "Sal"
+        ]
+      },
+      {
+        "Ingrediente principal": "Carne de ave",
+        "Nombre del plato": 1000000,
+        "Preparación": "Unknown",
+        "Ingredientes": [
+          "Immortality",
+          "Heat Immunity",
+          "Inferno",
+          "Teleportation",
+          "Interdimensional travel"
+        ]
+      },
+      {
+        "Ingrediente principal":"Carne de cordero",
+        "Nombre del plato":"",
+        "Preparación":"",
+        "Ingredientes": [
+            "Immortality",
+            "Heat Immunity",
+            "Inferno",
+            "Teleportation",
+            "Interdimensional travel"
+        ]
+
+      },
+      {
+        "Ingrediente principal":"Vegetales",
+        "Nombre del plato":"",
+        "Preparación":"",
+        "Ingredientes": [
+            "Immortality",
+            "Heat Immunity",
+            "Inferno",
+            "Teleportation",
+            "Interdimensional travel"
+        ]
+
+
+      }
+    ]
+  }
+  
